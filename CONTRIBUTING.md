@@ -3,7 +3,7 @@
 Your contributions are always welcome!
 
 ## Guidelines
-
+* Bitte sende eine EMAIL ich lad dat jetzt hoch
 * Add one link per Pull Request.
     * Make sure the PR title is in the format of `Add project-name`.
     * Write down the reason why the library is awesome.
